@@ -28,7 +28,6 @@ abo
 	b	([C)I	java/io/IOException
 	c	()I	java/io/IOException
 abz
-	access$800	(Labz;Lnr;)V	java/io/IOException
 	b	(Lnr;)V	java/io/IOException
 acg
 	a	(Ljava/io/DataInputStream;)V	java/io/IOException
@@ -327,7 +326,6 @@ uh
 	a	(Ljava/io/DataOutputStream;)V	java/io/IOException
 ur
 	a	(Ljava/util/Map;Ljava/io/File;Ljava/io/File;Ljava/io/File;)V	java/io/IOException
-	access$400	(Lur;Ljava/util/Map;Ljava/io/File;Ljava/io/File;Ljava/io/File;)V	java/io/IOException
 vj
 	a	(Ljava/io/DataInputStream;)V	java/io/IOException
 	a	(Ljava/io/DataOutputStream;)V	java/io/IOException
